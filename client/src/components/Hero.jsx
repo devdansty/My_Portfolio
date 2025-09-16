@@ -5,7 +5,7 @@ import resume from "../data/resumeData";
 
 export default function Hero() {
   return (
-    <section className="w-full px-4 sm:px-6 md:px-10 pt-16 sm:pt-20 md:pt-24 pb-10 sm:pb-12 md:pb-16 flex flex-col md:flex-row items-start gap-6 md:gap-10">
+    <section className="w-full px-4 sm:px-6 md:px-10 pt-4 sm:pt-20 md:pt-24 pb-10 sm:pb-8 md:pb-4 flex flex-col md:flex-row items-start gap-6 md:gap-10">
       {/* Left Side */}
       <motion.div
         initial={{ opacity: 0, y: 24 }}
