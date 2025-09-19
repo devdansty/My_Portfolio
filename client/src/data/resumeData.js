@@ -52,9 +52,9 @@ const resume = {
       demo: '#'
     },
     {
-      title: 'AI-based Chatbot (University Project)',
-      desc: '',
-      tech: ["Backend: Python + Flask with NLTK and spaCy for NLP and task handling. Frontend: HTML, CSS, JavaScript for user interface."],
+      title: 'AI-based Chatbot ',
+      desc: 'An AI-powered chatbot that manages daily tasks and conversations ',
+      tech: ["Python + Flask (with NLTK & spaCy) handle NLP and task logic, while React.js + Axios"],
       github: 'https://github.com/devdansty/Chaty-AI-based-chatbot.git',
       demo: '#'
     },
